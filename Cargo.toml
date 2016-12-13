@@ -1,0 +1,6 @@
+[package]
+name = "csv_check"
+version = "0.1.0"
+authors = ["aleksey-orekhov <cruser42@gmail.com>"]
+
+[dependencies]
